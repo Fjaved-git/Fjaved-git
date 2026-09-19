@@ -1,107 +1,128 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=3000&pause=1000&color=B4F436&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fahad+Javed+%F0%9F%91%8B;Flutter+%26+Mobile+Systems+Engineer;Crafting+Fluid+Native+Mobile+Apps" alt="Typing SVG" />
-  </a>
+<img src="assets/banner.svg" alt="Fahad Javed — Flutter & Mobile Systems Engineer" width="100%" />
 
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header" width="100%" />
-  </p>
+<a href="https://github.com/fahadjaveddev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=Flutter+%C2%B7+Dart+%C2%B7+Firebase;Clean+architecture.+Predictable+state.;Smooth+60%2F120+fps+interfaces.;BS+Computer+Science+%E2%80%94+Class+of+2028" alt="Typing animation" />
+</a>
 
-  <!-- Quick Socials & Status Badges -->
-  <p>
-    <a href="https://www.linkedin.com/in/fahad-javed6951/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.fiverr.com/sellers/fahadjaveddev/edit">
-      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Desk" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-10b981?style=for-the-badge" alt="Status" />
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/fahad-javed6951/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/fahadjaveddev"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=fahadjaveddev&style=for-the-badge&color=0B7285&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-### ⚡ Core Stack
+## About
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode&perline=7" alt="Tech Stack" />
-</div>
+I build cross-platform mobile apps with **Flutter** and **Dart**, with a focus on clean structure, responsive UI, and code that stays maintainable as it grows. Currently studying Computer Science (class of 2028) and taking on freelance projects.
 
----
+<br />
 
-### 📊 GitHub Stats & Streaks
-
-<div align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadjaveddev&show_icons=true&theme=dark&bg_color=0d1117&title_color=b4f436&icon_color=b4f436&text_color=c9d1d9&border_color=30363d&hide_border=false" width="48%" alt="GitHub Stats" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadjaveddev&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=b4f436&fire=b4f436&currStreakLabel=b4f436" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadjaveddev&layout=compact&theme=dark&bg_color=0d1117&title_color=b4f436&text_color=c9d1d9&border_color=30363d&hide_border=false" width="55%" alt="Top Languages" />
-</div>
-
----
-
-### 🚀 Production Showcases
+## Engineering Focus
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1irSfg30VnXDgYYeSVm1cMQGn9Y3Gdx-3/view?usp=sharing">
-        <img src="https://lh3.googleusercontent.com/d/1irSfg30VnXDgYYeSVm1cMQGn9Y3Gdx-3" width="100%" alt="iOS Calculator" />
-      </a>
-      <br />
-      <strong>iOS Calculator Engine</strong>[cite: 1]
-      <br />
-      <code>Flutter</code> • <code>Clean State</code> • <code>Evaluator</code>[cite: 1]
+    <td width="33%" valign="top">
+      <h4>🏗️ Architecture</h4>
+      Layered, decoupled code with predictable state and safe async handling — no <code>BuildContext</code> used across async gaps.
     </td>
-    <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1wQEb-jA5ctB09Fibk01wRwmHoXJyIQ7_/view?usp=sharing">
-        <img src="https://lh3.googleusercontent.com/d/1wQEb-jA5ctB09Fibk01wRwmHoXJyIQ7_" width="100%" alt="WhatsApp iOS Clone" />
-      </a>
-      <br />
-      <strong>WhatsApp Dark iOS Clone</strong>[cite: 1]
-      <br />
-      <code>Flutter</code> • <code>ListView Builder</code> • <code>Cupertino</code>[cite: 1]
+    <td width="33%" valign="top">
+      <h4>⚡ Performance</h4>
+      One codebase for iOS and Android, built for smooth rendering with Impeller/Skia and lean widget trees.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1EPTAat_gOMd2aCsEbYpL4zqmGNzeGf0M/view?usp=sharing">
-        <img src="https://lh3.googleusercontent.com/d/1EPTAat_gOMd2aCsEbYpL4zqmGNzeGf0M" width="100%" alt="Campus App" />
-      </a>
-      <br />
-      <strong>Campus System Redesign</strong>[cite: 1]
-      <br />
-      <code>UI/UX Design Tokens</code> • <code>Auth Flow</code>[cite: 1]
-    </td>
-    <td width="50%" align="center">
-      <a href="https://drive.google.com/file/d/1Qww-BBQ5ks064lbjP2csw9bp1JHQ7sJa/view?usp=share_link">
-        <img src="https://lh3.googleusercontent.com/d/1Qww-BBQ5ks064lbjP2csw9bp1JHQ7sJa" width="100%" alt="Lottery App" />
-      </a>
-      <br />
-      <strong>Interactive Lottery Engine</strong>[cite: 1]
-      <br />
-      <code>State Matchers</code> • <code>Smooth Transitions</code>[cite: 1]
+    <td width="33%" valign="top">
+      <h4>🧠 Practical AI</h4>
+      Lightweight models and REST APIs wired into Flutter through low-latency pipelines. Useful, not gimmicky.
     </td>
   </tr>
 </table>
 
----
+<br />
 
-### 💡 Daily Dev Quote
+## Tech Stack
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,postman&perline=9" alt="Tech stack icons" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=70&section=footer" width="100%" />
-</p>
+<br />
+
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>Flutter · Dart · Material &amp; Cupertino · Implicit / explicit animations</td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Data</b></td>
+    <td>Firebase · REST APIs · JSON serialization</td>
+  </tr>
+  <tr>
+    <td><b>Practices</b></td>
+    <td>Clean architecture · State management · Form validation · Design tokens</td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td>Git · GitHub · Android Studio · VS Code · Figma · Postman</td>
+  </tr>
+</table>
+
+<br />
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 iOS-Style Calculator</h3>
+      <p>Expression evaluation logic separated from the UI, paired with a faithful iOS layout and a custom operator engine.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Clean%20State-1E293B?style=flat-square" alt="Clean State" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 WhatsApp iOS Clone</h3>
+      <p>Dark-mode iOS recreation with high-performance <code>ListView</code> builders, modular tab navigation, and a persistent feed.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dark%20Mode-1E293B?style=flat-square" alt="Dark Mode" /> <img src="https://img.shields.io/badge/ListView-1E293B?style=flat-square" alt="ListView" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Campus App Redesign</h3>
+      <p>Overhauled the student registration flow: clearer visual hierarchy, password visibility toggle, and a unified design-token system.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Form%20Validation-1E293B?style=flat-square" alt="Form Validation" /> <img src="https://img.shields.io/badge/Design%20Systems-1E293B?style=flat-square" alt="Design Systems" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎲 Try Your Luck</h3>
+      <p>State-driven number-matching game with animated card reveals and celebratory win states.</p>
+      <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/State%20Logic-1E293B?style=flat-square" alt="State Logic" /> <img src="https://img.shields.io/badge/Animations-1E293B?style=flat-square" alt="Animations" /></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fahadjaveddev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1226" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadjaveddev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1226" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=fahadjaveddev&theme=tokyonight&hide_border=true&background=0B1226" alt="Contribution streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadjaveddev&theme=tokyo-night&hide_border=true&bg_color=0B1226&area=true" alt="Contribution graph" width="100%" />
+</div>
+
+<br />
+
+## Let's Work Together
+
+| | |
+|---|---|
+| 💼 **Freelance** | [fiverr.com/fahadjaveddev](https://www.fiverr.com/fahadjaveddev) |
+| 🤝 **Network** | [linkedin.com/in/fahad-javed6951](https://www.linkedin.com/in/fahad-javed6951/) |
+| 🎓 **Education** | BS Computer Science, class of 2028 |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" alt="" />
