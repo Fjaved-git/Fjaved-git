@@ -1,84 +1,107 @@
 <div align="center">
-  <!-- Header Banner / Title -->
-  <h1>Hey, I'm Fahad Javed 👋</h1>
-  <p><strong>Flutter &amp; Mobile Systems Engineer | Computer Science Scholar</strong></p>
-  <p><em>Building fluid, production-grade cross-platform apps people actually enjoy opening.</em></p>
+
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=3000&pause=1000&color=B4F436&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fahad+Javed+%F0%9F%91%8B;Flutter+%26+Mobile+Systems+Engineer;Crafting+Fluid+Native+Mobile+Apps" alt="Typing SVG" />
+  </a>
 
   <p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header" width="100%" />
+  </p>
+
+  <!-- Quick Socials & Status Badges -->
+  <p>
     <a href="https://www.linkedin.com/in/fahad-javed6951/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.fiverr.com/sellers/fahadjaveddev/edit">
-      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr Desk" />
+      <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Desk" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-10b981?style=for-the-badge" alt="Status" />
   </p>
+
 </div>
 
-<br />
+---
 
-### ⚡ Engineering Focus & Philosophy
-
-* 🎯 **Decoupled Architecture:** Clean architecture, predictable state trees, aur unmounted `BuildContext` memory leaks ko eliminate karna.
-* 📱 **Single Codebase iOS & Android:** Impeller/Skia-optimized widgets, zero-jank frame rendering, aur fluid user experiences.
-* 🧠 **Practical AI Integration:** Lightweight AI models aur REST APIs ko low-latency pipelines ke sath Flutter me connect karna (bina kisi gimmick ke).
-
-<br />
-
-### 🛠️ Tech Stack & Tooling
+### ⚡ Core Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_APIs-%23143823.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode&perline=7" alt="Tech Stack" />
 </div>
 
-<br />
+---
 
-### 🚀 Featured Mobile Architectures
+### 📊 GitHub Stats & Streaks
+
+<div align="center">
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadjaveddev&show_icons=true&theme=dark&bg_color=0d1117&title_color=b4f436&icon_color=b4f436&text_color=c9d1d9&border_color=30363d&hide_border=false" width="48%" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadjaveddev&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=b4f436&fire=b4f436&currStreakLabel=b4f436" width="48%" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadjaveddev&layout=compact&theme=dark&bg_color=0d1117&title_color=b4f436&text_color=c9d1d9&border_color=30363d&hide_border=false" width="55%" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 Production Showcases
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📱 iOS-Style Calculator</h4>
-      <p>Decoupled expression evaluation logic aur Apple iOS layout design system ke sath custom operator evaluation engine.</p>
-      <p><code>Flutter</code> • <code>Dart</code> • <code>Clean State</code></p>
+    <td width="50%" align="center">
+      <a href="https://drive.google.com/file/d/1irSfg30VnXDgYYeSVm1cMQGn9Y3Gdx-3/view?usp=sharing">
+        <img src="https://lh3.googleusercontent.com/d/1irSfg30VnXDgYYeSVm1cMQGn9Y3Gdx-3" width="100%" alt="iOS Calculator" />
+      </a>
+      <br />
+      <strong>iOS Calculator Engine</strong>[cite: 1]
+      <br />
+      <code>Flutter</code> • <code>Clean State</code> • <code>Evaluator</code>[cite: 1]
     </td>
-    <td width="50%" valign="top">
-      <h4>💬 WhatsApp iOS Clone</h4>
-      <p>WhatsApp dark iOS interface recreation: high-performance ListView builders, modular navigation tabs aur persistent feed architecture.</p>
-      <p><code>Flutter</code> • <code>Dark Mode</code> • <code>ListTile Architecture</code></p>
+    <td width="50%" align="center">
+      <a href="https://drive.google.com/file/d/1wQEb-jA5ctB09Fibk01wRwmHoXJyIQ7_/view?usp=sharing">
+        <img src="https://lh3.googleusercontent.com/d/1wQEb-jA5ctB09Fibk01wRwmHoXJyIQ7_" width="100%" alt="WhatsApp iOS Clone" />
+      </a>
+      <br />
+      <strong>WhatsApp Dark iOS Clone</strong>[cite: 1]
+      <br />
+      <code>Flutter</code> • <code>ListView Builder</code> • <code>Cupertino</code>[cite: 1]
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Campus App UI/UX Redesign</h4>
-      <p>Student registration workflows ka overhaul: visual hierarchy, dynamic password visibility, aur unified design token system.</p>
-      <p><code>Flutter</code> • <code>Form Validation</code> • <code>Design Systems</code></p>
+    <td width="50%" align="center">
+      <a href="https://drive.google.com/file/d/1EPTAat_gOMd2aCsEbYpL4zqmGNzeGf0M/view?usp=sharing">
+        <img src="https://lh3.googleusercontent.com/d/1EPTAat_gOMd2aCsEbYpL4zqmGNzeGf0M" width="100%" alt="Campus App" />
+      </a>
+      <br />
+      <strong>Campus System Redesign</strong>[cite: 1]
+      <br />
+      <code>UI/UX Design Tokens</code> • <code>Auth Flow</code>[cite: 1]
     </td>
-    <td width="50%" valign="top">
-      <h4>🎲 "Try Your Luck" — Lottery Engine</h4>
-      <p>Interactive state-driven number matching application, animated card triggers aur dynamic celebratory states ke sath.</p>
-      <p><code>Flutter</code> • <code>State Logic</code> • <code>Implicit Animations</code></p>
+    <td width="50%" align="center">
+      <a href="https://drive.google.com/file/d/1Qww-BBQ5ks064lbjP2csw9bp1JHQ7sJa/view?usp=share_link">
+        <img src="https://lh3.googleusercontent.com/d/1Qww-BBQ5ks064lbjP2csw9bp1JHQ7sJa" width="100%" alt="Lottery App" />
+      </a>
+      <br />
+      <strong>Interactive Lottery Engine</strong>[cite: 1]
+      <br />
+      <code>State Matchers</code> • <code>Smooth Transitions</code>[cite: 1]
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-### 📊 GitHub Activity & Insights
+### 💡 Daily Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadjaveddev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadjaveddev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
-<br />
-
-### 📬 Connect With Me
-
-* **Direct Projects / Freelance:** [Fiverr Profile](https://www.fiverr.com/sellers/fahadjaveddev/edit)
-* **Professional Network:** [LinkedIn (Fahad Javed)](https://www.linkedin.com/in/fahad-javed6951/)
-* **Academic Background:** BS Computer Science Student (Class of 2028)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=70&section=footer" width="100%" />
+</p>
