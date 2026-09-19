@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Fahad Javed — Flutter & Mobile Systems Engineer" width="100%" />
+  <img src="https://lh3.googleusercontent.com/d/1wKEocbFvTjrH37GpaNfqV-38wI5Eu86p" alt="Fahad Javed — Flutter & Mobile Systems Engineer" width="100%" />
 
-<a href="https://github.com/fahadjaveddev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=Flutter+%C2%B7+Dart+%C2%B7+Firebase;Clean+architecture.+Predictable+state.;Smooth+60%2F120+fps+interfaces.;BS+Computer+Science+%E2%80%94+Class+of+2028" alt="Typing animation" />
-</a>
+  <br /><br />
 
-<p>
-  <a href="https://www.linkedin.com/in/fahad-javed6951/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.fiverr.com/fahadjaveddev"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=fahadjaveddev&style=for-the-badge&color=0B7285&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+  <img src="https://lh3.googleusercontent.com/d/1cPsxc3RjSV7Npi0MJky1JWPYCRWVfRXK" alt="Fahad Javed Logo" width="110" style="border-radius: 50%;" />
+
+  <br /><br />
+
+  <a href="https://github.com/fahadjaveddev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=Flutter+%C2%B7+Dart+%C2%B7+Firebase;Clean+architecture.+Predictable+state.;Smooth+60%2F120+fps+interfaces.;BS+Computer+Science+%E2%80%94+Class+of+2028" alt="Typing animation" />
+  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/fahad-javed6951/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.fiverr.com/fahadjaveddev"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge" alt="Open to work" />
+    <img src="https://komarev.com/ghpvc/?username=fahadjaveddev&style=for-the-badge&color=0B7285&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
 
 </div>
 
