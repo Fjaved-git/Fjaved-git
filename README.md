@@ -110,19 +110,6 @@ I build cross-platform mobile apps with **Flutter** and **Dart**, with a focus o
 
 <br />
 
-## GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fahadjaveddev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1226" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadjaveddev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1226" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=fahadjaveddev&theme=tokyonight&hide_border=true&background=0B1226" alt="Contribution streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadjaveddev&theme=tokyo-night&hide_border=true&bg_color=0B1226&area=true" alt="Contribution graph" width="100%" />
-</div>
-
-<br />
-
 ## Let's Work Together
 
 | | |
